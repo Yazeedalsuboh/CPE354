@@ -1,1 +1,1 @@
-# CPE354
+# CPE354 - Database Tasks Solutions
